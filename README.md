@@ -1,4 +1,4 @@
-# Manipulação de Arrays Dinâmicos em C
+# Manipulação de Arrays Dinâmicos em C 
 
 Exemplos de como trabalhar com arrays dinâmicos em C.
 
